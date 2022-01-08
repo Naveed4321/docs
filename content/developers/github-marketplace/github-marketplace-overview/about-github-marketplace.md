@@ -1,4 +1,4 @@
----
+Naveed Alam Khan
 title: About GitHub Marketplace
 intro: 'Learn about {% data variables.product.prodname_marketplace %} where you can share your apps and actions publicly with all {% data variables.product.product_name %} users.'
 redirect_from:
